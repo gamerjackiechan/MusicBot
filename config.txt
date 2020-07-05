@@ -1,0 +1,3 @@
+token = w_tUyvTq-cGFV9PeLh3Tdiln1Y7ZpO6U
+owner = 729203149142753332
+prefix = "."
